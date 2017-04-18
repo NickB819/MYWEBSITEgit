@@ -68,3 +68,23 @@
 #pricing-table1-4 H3 {
   color: #ffffff;
 }
+#dropdown-menu-2btn-8 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-8 .nav .link,
+#dropdown-menu-2btn-8 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-8 .navbar,
+#dropdown-menu-2btn-8 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-8 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-8 .dropdown-menu a:hover,
+#dropdown-menu-2btn-8 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-8 .navbar-toggler {
+  color: #ffffff;
+}
