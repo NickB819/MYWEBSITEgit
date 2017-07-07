@@ -1,16 +1,18 @@
 {
   "settings": {
-    "name": "NewSite-04-16_2351",
-    "currentPage": "buymenu.html",
+    "name": "Gook Menu",
+    "currentPage": "buygiftcards.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 9,
+    "uniqCompNum": 10,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -60,9 +62,9 @@
             "showButtons": true,
             "showArrow": false
           },
-          "title": "Gook Menu",
-          "text": "<b><i>Welcome to the official site of the Gook Menu! Here we will be posting all of the latest updates, news, and information about the menu!</i></b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"buymenu.html\" data-toolbar=\"-mbrBtnMove\">Purchase Menu</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
+          "title": "Account and GiftCard Cartel",
+          "text": "<b><i>Welcome to the official site of the Cheapest Accounts and GiftCards! Here we will be posting all of the latest updates, new arrivals, and all information about what is going on with our business!</i></b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"buyaccounts.html\" data-toolbar=\"-mbrBtnMove\">Purchase Accounts</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"buygiftcards.html\" data-toolbar=\"-mbrBtnMove\">Purchase GiftCards</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"contactus.html\" data-toolbar=\"-mbrBtnMove\">Contact</a>"
         },
         {
           "_inherit": "dropdown-menu",
@@ -104,15 +106,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/a-c2-170x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gook Menu</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buymenu.html\">Purchase</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A &amp; C Cartel</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buyaccounts.html\">Purchase</a></li>"
         }
       ]
     },
@@ -120,7 +124,7 @@
       "settings": {
         "title": "Contact Information",
         "meta_descr": "If you have any questions, then you can email us here!",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -163,15 +167,17 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/a-c2-170x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gook Menu</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buymenu.html\">Purchase</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A &amp; C Cartel</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buyaccounts.html\">Purchase</a></li>"
         },
         {
           "_tags": [
@@ -224,10 +230,10 @@
         }
       ]
     },
-    "buymenu.html": {
+    "buyaccounts.html": {
       "settings": {
-        "title": "Purchase Menu Here!",
-        "meta_descr": "Here you can purchase the menu and read about it if you want to learn more before purchasing.",
+        "title": "Purchase AccountsHere!",
+        "meta_descr": "Here you can purchasethe accounts that we offer from a wide range of games and websites such as Grand Theft Auto V and Call of Duty!",
         "order": 2
       },
       "components": [
@@ -271,7 +277,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lol-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a-c2-170x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -280,27 +286,22 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gook Menu</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buymenu.html\">Purchase</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A &amp; C Cartel</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buyaccounts.html\">Purchase</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "pricing-table1-4",
+          "_name": "features1",
+          "_anchor": "features1-9",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f0f0f0",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -309,50 +310,161 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "firstType": "default",
-            "showButtons": true,
-            "secondType": "green",
-            "thirdType": "favorite",
-            "fourthType": "orange",
-            "fifthType": "hidden"
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": 4,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": true
           },
-          "title1": "Standard",
-          "currency1": "$",
-          "price1": "10.00",
-          "period1": "per month<br>",
-          "list1": "<ul><li><b>Normal User Access/regular features</b></li><li><b>[Standard Nigg] Discord Tag and Chat Tag</b></li><li><b>Nothin' special, just 1 month of THIS DOPE MENU!</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://paypal.com/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Purchase</a> ",
-          "title2": "VIP",
-          "currency2": "$",
-          "price2": "20.00",
-          "period2": "per 3 months",
-          "list2": "<ul><li><b>&nbsp;Gets normal features that come with menu.</b></li><li><b><i>[VIP Gook</i>] Tag in Discord/Chat</b></li><li><b>Saving Money, but Nothin' special, just 3 months of THIS DOPE MENU!</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://paypal.com/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "title3": "Dedicated",
-          "currency3": "$",
-          "price3": "45.00",
-          "period3": "per 6 months",
-          "list3": "<ul><li><b>Gets normal features that come with menu.</b></li><li><b>[Dedicated Gook] Discord and Chat Tag</b></li><li><b>Nothin' special, just 6 months of THIS DOPE MENU!</b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://paypal.com/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "title4": "Deluxe",
-          "currency4": "$",
-          "price4": "80.00",
-          "period4": "per year",
-          "list4": "<ul><li><b>-ALL options that we create are released only too Deluxe Gook Menu Users!</b></li><li><b>-[<i>Deluxe Gook</i>] Tag in Chat and on Discord&nbsp;</b></li><li><b>-Special access to secret features that may or may not be released to other subcriptions</b></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://paypal.com/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Purchase</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/call-of-duty-1yzc2yb-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Call of Duty Series",
+          "caption1": "For the Call of Duty series we offer Black Ops, Black Ops II, WaW, CoD4, MW2, MW3, CoD Ghosts, Advanced Warfare, and BO3(old gen only). Here we have all unlocks, max prestige, basically anything you want! Click down below for more info.",
+          "button1": "<a data-app-btn=\"true\" href=\"buyaccounts.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gta-5-bank-robbery-mod-for-grand-theft-auto-v-download-1-600x337.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Grand Theft Auto V",
+          "caption2": "GTA V Money hack (ex. Nick)",
+          "button2": "<a data-app-btn=\"true\" href=\"buyaccounts.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/battlefield-series-56aba2b53df78cf772b55b96-600x262.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Battlefield Seies",
+          "caption3": "BATTLEFIELD LEVEL HACK (ex. Nick)",
+          "button3": "<a data-app-btn=\"true\" href=\"buyaccounts.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/download-600x600.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "2K Series",
+          "caption4": "2k Games money hack (ex. Nick)",
+          "button4": "<a data-app-btn=\"true\" href=\"buyaccounts.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         }
       ]
     },
-    "page3.html": {
+    "buygiftcards.html": {
       "settings": {
-        "title": "Site Creator Title",
-        "meta_descr": "Site Creator Description"
+        "title": "GiftCards Down Below!",
+        "meta_descr": "",
+        "order": 3
       },
       "components": [
         {
@@ -395,7 +507,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/lol-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/a-c2-170x128.png",
               "class": "",
               "height": 128,
               "alt": "Mobirise",
@@ -404,8 +516,8 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Gook Menu</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buymenu.html\">Purchase</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">A &amp; C Cartel</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contactus.html\">Contact</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Purchasing Menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Chat</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Forums</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Latest Updates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Search Forums</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Menu Talk</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Your Watched Threads</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Services</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Live Support</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Information</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://discord.gg/HBJdW6e\" target=\"_blank\">Discord</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"buyaccounts.html\">Purchase</a></li>"
         }
       ]
     }
